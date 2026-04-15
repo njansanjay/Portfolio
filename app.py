@@ -17,12 +17,17 @@ def home():
             "Python (Intermediate — Strengthening Logic with Functions, Classes & Real Use-Cases)",
             "Java (Beginner — Exploring Basics & OOP Foundations)",
             "Figma (UI/UX — Wireframing & Simple Interface Design)"
+            
         ],
 
         "projects": [
             {
                 "name": "Rock–Paper–Scissors (Python)",
                 "desc": "A fun console-based game built to practice conditionals, loops, and the random module."
+            },
+            {
+                "name": "2D Car Racing Game",
+                "desc": "A 3-lane racing game where the player switches lanes left or right to avoid crashing into enemy cars."
             }
         ],
 
